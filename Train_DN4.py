@@ -1,24 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Author: Wenbin Li (liwenbin@nju.edu.cn)
-Date: June 18, 2023
-Version: V5
 
-Citation: 
-@inproceedings{DN4_CVPR_2019,
-  author       = {Wenbin Li and
-                  Lei Wang and
-                  Jinglin Xu and
-                  Jing Huo and
-                  Yang Gao and
-                  Jiebo Luo},
-  title        = {Revisiting Local Descriptor Based Image-To-Class Measure for Few-Shot Learning},
-  booktitle    = {{IEEE} Conference on Computer Vision and Pattern Recognition (CVPR)},
-  pages        = {7260--7268},
-  year         = {2019}
-}
-"""
 
 
 from __future__ import print_function
